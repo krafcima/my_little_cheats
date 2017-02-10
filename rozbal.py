@@ -10,9 +10,7 @@ def priecinky(c):
 					res.append(pole[i])
 	return res
 r = os.listdir(os.getcwd())
-print(r)
 done  = priecinky(r)
-print(done)
 for i in range(len(r)):
 	pom = ''
 	if '.zip' in r[i]:
@@ -23,3 +21,4 @@ for i in range(len(r)):
 for i in range(len(done)):
 	with open(os.getcwd()+'\data.txt', 'a') as f:
 		print('{}.) {}'.format(i,done[i]), file = f)
+print('>>>I am DONE<<<')
