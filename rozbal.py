@@ -21,4 +21,5 @@ for i in range(len(r)):
 for i in range(len(done)):
 	with open(os.getcwd()+'\data.txt', 'a') as f:
 		print('{}.) {}'.format(i,done[i]), file = f)
+
 print('>>>I am DONE<<<')
