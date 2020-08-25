@@ -7,20 +7,26 @@ It will contains some of my little scripts, because, you know IT guys are so laz
 
 
 # links for you
+## Composer & NPM
+- **!COMPOSER AND NPM FUNCIONALITY ARE EQUAL, BUT CHECK THEM BOTH!**
+  **Composer -  Basic use https://getcomposer.org/doc/00-intro.md**
+  + Important to check repositories : https://getcomposer.org/doc/05-repositories.md            
+    List of console commands : https://getcomposer.org/doc/03-cli.md
+  + NPM - Node.js package manager: https://youtu.be/jHDhaSSKmB0
 
-* !COMPOSER AND NPM FUNCIONALITY ARE EQUAL, BUT CHECK THEM BOTH!
-  *  ## Composer -  Basic use https://getcomposer.org/doc/00-intro.md
-        Important to check repositories :     
-         https://getcomposer.org/doc/05-
-         repositories.md            
-        List of commands via          
-        console : https://getcomposer.org/doc/03-cli.md
+## Datables & Tabulator
+  https://m.youtube.com/watch?v=GA03MzN9QFg  
+  Tabulator : http://tabulator.info/  - this is quite easy  - approx 3 min. 
+## Databaze migration:
+  - **https://laravel.cz/blog/xvital/databaza-a-migracie**
+  **VERY IMPORTANT, THERE IS SQL, MICROSOFT SQL, MYSQL, POSTGRE SQL, MARIANNA DB, ORACLE ... 
+ ### ORM DOCTRINE - Object Relational Mapper DOCTRINE
+  -  https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/tutorials/getting-started.html
+## Ach jezu Laravel model:
+https://www.youtube.com/watch?v=hM135dPJ1dM
+https://laravel.com/docs/7.x/eloquent
+https://laravel.com/docs/4.2/eloquent#introduction
 
-   *  NPM - Node.js package manager: https://youtu.be/jHDhaSSKmB0
+## TINYMCE : https://m.youtube.com/watch?v=NyZ_p8eOIbw  
 
-Datables
-https://m.youtube.com/watch?v=GA03MzN9QFg  
-Tabulator : http://tabulator.info/  - this is quite easy  - approx 3 min. 
-
-Tiny thing : https://m.youtube.com/watch?v=NyZ_p8eOIbw  
-Opencart - https://m.youtube.com/watch?v=g_ivrw_MNJE  - ta to je na menezovanie objednavok
+## Opencart - https://m.youtube.com/watch?v=g_ivrw_MNJE  - ta toto je na menezovanie objednavok, ... - pride mi to ako ekonomicky nastroj
