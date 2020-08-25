@@ -9,14 +9,14 @@ It will contains some of my little scripts, because, you know IT guys are so laz
 # links for you
 
 * !COMPOSER AND NPM FUNCIONALITY ARE EQUAL, BUT CHECK THEM BOTH!
-  * * # # Composer -  Basic use https://getcomposer.org/doc/00-intro.md
+  *  ## Composer -  Basic use https://getcomposer.org/doc/00-intro.md
         Important to check repositories :     
          https://getcomposer.org/doc/05-
          repositories.md            
         List of commands via          
         console : https://getcomposer.org/doc/03-cli.md
 
-   * * NPM - Node.js package manager: https://youtu.be/jHDhaSSKmB0
+   *  NPM - Node.js package manager: https://youtu.be/jHDhaSSKmB0
 
 Datables
 https://m.youtube.com/watch?v=GA03MzN9QFg  
